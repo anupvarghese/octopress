@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://anupvarghese.herokuapp.com
+url: http://anupvarghese.herokuapp.com/
 title: My Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Anoop Varghese
 simple_search: https://www.google.com/search
 description:
 

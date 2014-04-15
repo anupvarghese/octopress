@@ -25,5 +25,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 Here is a sample flickr integration
 
-{% flickr_image 12690662105 m center Click1 %}
+{% flickr_image 12690662105 z center Click1 %}
 

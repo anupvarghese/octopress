@@ -3,7 +3,7 @@ layout: post
 title: "The First Blog"
 date: 2014-04-12 17:48:56 +0000
 comments: true
-categories: [CSS3, Sass, Media Queries]
+categories: [CSS3, Media Queries]
 ---
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
@@ -22,3 +22,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+

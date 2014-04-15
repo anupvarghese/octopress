@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Canon | Through My Lens]]></title>
+  <title><![CDATA[Category: Canon | through my lens]]></title>
   <link href="http://anupvarghese.herokuapp.com//blog/categories/canon/atom.xml" rel="self"/>
   <link href="http://anupvarghese.herokuapp.com//"/>
-  <updated>2014-04-15T15:58:20+00:00</updated>
+  <updated>2014-04-15T17:19:04+00:00</updated>
   <id>http://anupvarghese.herokuapp.com//</id>
   <author>
     <name><![CDATA[Anoop Varghese]]></name>
@@ -18,9 +18,9 @@
     <link href="http://anupvarghese.herokuapp.com//blog/2014/04/15/spices/"/>
     <updated>2014-04-15T11:48:53+00:00</updated>
     <id>http://anupvarghese.herokuapp.com//blog/2014/04/15/spices</id>
-    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm4.staticflickr.com/3828/12690800243_c2a73c101f_b.jpg" class="fancybox" data-title-id="flickr-photo-12690800243" data-media="photo"><img src="https://farm4.staticflickr.com/3828/12690800243_c2a73c101f_z.jpg" title="DPP_0204" style=""/></a><figcaption id="flickr-photo-12690800243"><h1><a class="flickr-link" href="https://www.flickr.com/photos/87992217@N00/12690800243">DPP_0204</a> by anup varghese</h1><div class="description">Spices</div></figcaption></figure></p>
+    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm4.staticflickr.com/3828/12690800243_c2a73c101f_b.jpg" class="fancybox" data-title-id="flickr-photo-12690800243" data-media="photo"><img src="https://farm4.staticflickr.com/3828/12690800243_c2a73c101f_z.jpg" title="DPP_0204" style=""/></a></figure></p>
 
-<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7446/12691152104_91f32d2be3_b.jpg" class="fancybox" data-title-id="flickr-photo-12691152104" data-media="photo"><img src="https://farm8.staticflickr.com/7446/12691152104_91f32d2be3_z.jpg" title="DPP_0203" style=""/></a><figcaption id="flickr-photo-12691152104"><h1><a class="flickr-link" href="https://www.flickr.com/photos/87992217@N00/12691152104">DPP_0203</a> by anup varghese</h1><div class="description">Spices</div></figcaption></figure></p>
+<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7446/12691152104_91f32d2be3_b.jpg" class="fancybox" data-title-id="flickr-photo-12691152104" data-media="photo"><img src="https://farm8.staticflickr.com/7446/12691152104_91f32d2be3_z.jpg" title="DPP_0203" style=""/></a></figure></p>
 ]]></content>
   </entry>
   
@@ -29,7 +29,7 @@
     <link href="http://anupvarghese.herokuapp.com//blog/2014/04/12/the-first-blog/"/>
     <updated>2014-04-12T17:48:56+00:00</updated>
     <id>http://anupvarghese.herokuapp.com//blog/2014/04/12/the-first-blog</id>
-    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_b.jpg" class="fancybox" data-title-id="flickr-photo-12690662105" data-media="photo"><img src="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_z.jpg" title="DPP_0049" style=""/></a><figcaption id="flickr-photo-12690662105"><h1><a class="flickr-link" href="https://www.flickr.com/photos/87992217@N00/12690662105">DPP_0049</a> by anup varghese</h1><div class="description">Click1</div></figcaption></figure></p>
+    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_b.jpg" class="fancybox" data-title-id="flickr-photo-12690662105" data-media="photo"><img src="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_z.jpg" title="DPP_0049" style=""/></a></figure></p>
 ]]></content>
   </entry>
   

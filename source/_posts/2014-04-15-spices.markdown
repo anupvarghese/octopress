@@ -6,7 +6,7 @@ comments: true
 categories: [Bali, Canon]
 ---
 
-{% flickr_image 12690800243 z center Spices %}
+{% flickr_image 12690800243 z center %}
 
 
-{% flickr_image 12691152104 z center Spices %}
+{% flickr_image 12691152104 z center %}

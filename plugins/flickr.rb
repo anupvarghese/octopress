@@ -245,18 +245,18 @@ class FlickrPhotoHtml
         x.img(imgAttrs)
         self.icon(x)
       }
-      x.figcaption(captionAttrs) { |x|
-        x.h1{ |x|
-          x.a('class' => 'flickr-link', 'href' => @page_url) { |x| x << @title }
-          if @username
-            x << " by "
-            x << @username
-          end
-        }
-        x.div({'class' => 'description'}) { |x| 
-          x << @desc
-        } 
-      }
+      #x.figcaption(captionAttrs) { |x|
+      #  x.h1{ |x|
+      #    x.a('class' => 'flickr-link', 'href' => @page_url) { |x| x << @title }
+      #    if @username
+      #      x << " by "
+      #      x << @username
+      #    end
+      #  }
+      #  x.div({'class' => 'description'}) { |x| 
+      #    x << @desc
+      #  } 
+      #}
     }
    
     xmlBuffer

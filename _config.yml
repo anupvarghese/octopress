@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://anupvarghese.herokuapp.com/
-title: My Blog
-subtitle: A blogging framework for hackers.
+title: Through My Lens
+subtitle: Some of my best clicks!
 author: Anoop Varghese
 simple_search: https://www.google.com/search
-description:
+description: A collection of my best pics
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -82,8 +82,8 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
+googleplus_user: 
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
@@ -94,11 +94,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: anupphotos
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: 'UA-47487917-2'
+google_analytics_tracking_id: UA-47487917-2
 
 # Facebook Like
 facebook_like: false

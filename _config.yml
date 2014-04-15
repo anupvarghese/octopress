@@ -61,7 +61,11 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-
+# flickr
+flickr:
+  api_key: 9802136dfbe46deae11c6b8cf38223d5
+  shared_secret: 6e3f5526f520d632
+  
 # Github repositories
 github_user:
 github_repo_count: 0
@@ -94,7 +98,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-47487917-2'
 
 # Facebook Like
 facebook_like: false

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Media Queries | My Blog]]></title>
   <link href="http://anupvarghese.herokuapp.com//blog/categories/media-queries/atom.xml" rel="self"/>
   <link href="http://anupvarghese.herokuapp.com//"/>
-  <updated>2014-04-15T01:17:25+00:00</updated>
+  <updated>2014-04-15T07:52:58+00:00</updated>
   <id>http://anupvarghese.herokuapp.com//</id>
   <author>
     <name><![CDATA[Anoop Varghese]]></name>
@@ -34,6 +34,10 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 </code></pre></div></p>
 
 <p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/mojombo/jekyll">Jekyll&rsquo;s GitHub repo</a>.</p>
+
+<p>Here is a sample flickr integration</p>
+
+<p><figure class="flickr-thumbnail center" style="width: 240px;"><a href="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_z.jpg" class="fancybox" data-title-id="flickr-photo-12690662105" data-media="photo"><img src="https://farm8.staticflickr.com/7344/12690662105_9a3e7166d9_m.jpg" title="DPP_0049" style="width: 240px; height: 160px;"/></a><figcaption id="flickr-photo-12690662105"><h1><a class="flickr-link" href="https://www.flickr.com/photos/87992217@N00/12690662105">DPP_0049</a> by anup varghese</h1><div class="description">Click1</div></figcaption></figure></p>
 ]]></content>
   </entry>
   

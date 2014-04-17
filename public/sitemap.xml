@@ -10,7 +10,11 @@
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//blog/2014/04/16/buddha/</loc>
-        <lastmod>2014-04-16T14:44:57+00:00</lastmod>
+        <lastmod>2014-04-17T02:31:16+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anupvarghese.herokuapp.com//blog/2014/04/17/tour-de-china/</loc>
+        <lastmod>2014-04-17T02:31:53+00:00</lastmod>
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//robots.txt</loc>
@@ -18,11 +22,11 @@
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//blog/</loc>
-        <lastmod>2014-04-16T14:44:57+00:00</lastmod>
+        <lastmod>2014-04-17T02:31:53+00:00</lastmod>
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//blog/archives/</loc>
-        <lastmod>2014-04-16T14:44:57+00:00</lastmod>
+        <lastmod>2014-04-17T02:31:53+00:00</lastmod>
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//about/</loc>
@@ -30,10 +34,10 @@
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//</loc>
-        <lastmod>2014-04-16T14:44:57+00:00</lastmod>
+        <lastmod>2014-04-17T02:31:53+00:00</lastmod>
     </url>
     <url>
         <loc>http://anupvarghese.herokuapp.com//archives/</loc>
-        <lastmod>2014-04-16T14:44:57+00:00</lastmod>
+        <lastmod>2014-04-17T02:31:53+00:00</lastmod>
     </url>
 </urlset>

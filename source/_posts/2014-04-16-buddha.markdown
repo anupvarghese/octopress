@@ -3,7 +3,7 @@ layout: post
 title: "Buddha"
 date: 2014-04-16 14:43:30 +0000
 comments: true
-categories: [BUddha, Thailand, Canon]
+categories: [Buddha, Thailand, Canon]
 ---
 
 {% flickr_image 13895469475 z center %}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: China | through my lens]]></title>
+  <link href="http://anupvarghese.herokuapp.com//blog/categories/china/atom.xml" rel="self"/>
+  <link href="http://anupvarghese.herokuapp.com//"/>
+  <updated>2014-04-17T02:32:16+00:00</updated>
+  <id>http://anupvarghese.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Anoop Varghese]]></name>
+    <email><![CDATA[anupvarghese@outlook.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tour de China]]></title>
+    <link href="http://anupvarghese.herokuapp.com//blog/2014/04/17/tour-de-china/"/>
+    <updated>2014-04-17T02:05:12+00:00</updated>
+    <id>http://anupvarghese.herokuapp.com//blog/2014/04/17/tour-de-china</id>
+    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7330/12691079204_2bb8540b55_b.jpg" class="fancybox" data-title-id="flickr-photo-12691079204" data-media="photo"><img src="https://farm8.staticflickr.com/7330/12691079204_2bb8540b55_z.jpg" title="_MG_0594" style=""/></a></figure></p>
+
+<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm6.staticflickr.com/5506/12691080874_ffa97645e7_b.jpg" class="fancybox" data-title-id="flickr-photo-12691080874" data-media="photo"><img src="https://farm6.staticflickr.com/5506/12691080874_ffa97645e7_z.jpg" title="_MG_0575" style=""/></a></figure></p>
+
+<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7440/12691086644_f81dca22c8_b.jpg" class="fancybox" data-title-id="flickr-photo-12691086644" data-media="photo"><img src="https://farm8.staticflickr.com/7440/12691086644_f81dca22c8_z.jpg" title="_MG_0763" style=""/></a></figure></p>
+
+<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7415/12690731143_25480dee9b_b.jpg" class="fancybox" data-title-id="flickr-photo-12690731143" data-media="photo"><img src="https://farm8.staticflickr.com/7415/12690731143_25480dee9b_z.jpg" title="_MG_0547" style=""/></a></figure></p>
+]]></content>
+  </entry>
+  
+</feed>

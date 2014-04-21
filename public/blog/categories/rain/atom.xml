@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rain | through my lens]]></title>
+  <link href="http://anupvarghese.herokuapp.com//blog/categories/rain/atom.xml" rel="self"/>
+  <link href="http://anupvarghese.herokuapp.com//"/>
+  <updated>2014-04-21T05:46:32+00:00</updated>
+  <id>http://anupvarghese.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Anoop Varghese]]></name>
+    <email><![CDATA[anupvarghese@outlook.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[On a rainy day]]></title>
+    <link href="http://anupvarghese.herokuapp.com//blog/2014/04/21/on-a-rainy-day/"/>
+    <updated>2014-04-21T05:45:03+00:00</updated>
+    <id>http://anupvarghese.herokuapp.com//blog/2014/04/21/on-a-rainy-day</id>
+    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7301/13932659804_f5a4abbea4_b.jpg" class="fancybox" data-title-id="flickr-photo-13932659804" data-media="photo"><img src="https://farm8.staticflickr.com/7301/13932659804_f5a4abbea4_z.jpg" title="Sengkang" style=""/></a></figure></p>
+]]></content>
+  </entry>
+  
+</feed>

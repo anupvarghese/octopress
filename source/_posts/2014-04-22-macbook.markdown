@@ -1,0 +1,9 @@
+---
+layout: post
+title: "MacBook"
+date: 2014-04-22 01:34:14 +0000
+comments: true
+categories: [MacBook]
+---
+
+{% flickr_image 13909139356 z center %}

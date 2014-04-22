@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: MacBook | through my lens]]></title>
+  <link href="http://anupvarghese.herokuapp.com//blog/categories/macbook/atom.xml" rel="self"/>
+  <link href="http://anupvarghese.herokuapp.com//"/>
+  <updated>2014-04-22T01:35:37+00:00</updated>
+  <id>http://anupvarghese.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Anoop Varghese]]></name>
+    <email><![CDATA[anupvarghese@outlook.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MacBook]]></title>
+    <link href="http://anupvarghese.herokuapp.com//blog/2014/04/22/macbook/"/>
+    <updated>2014-04-22T01:34:14+00:00</updated>
+    <id>http://anupvarghese.herokuapp.com//blog/2014/04/22/macbook</id>
+    <content type="html"><![CDATA[<p><figure class="flickr-thumbnail center" style="display: inline-block;"><a href="https://farm4.staticflickr.com/3675/13909139356_17dce4e91f_b.jpg" class="fancybox" data-title-id="flickr-photo-13909139356" data-media="photo"><img src="https://farm4.staticflickr.com/3675/13909139356_17dce4e91f_z.jpg" title="MacBook" style=""/></a></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
